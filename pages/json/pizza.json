@@ -1,0 +1,9 @@
+{
+  "pizza": {
+    "name": "Salam",
+    "type": "Meat",
+    "count": "5",
+    "price": "250",
+    "description": "Pizza with meat"
+  }
+}
